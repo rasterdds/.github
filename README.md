@@ -2,8 +2,6 @@
 
 Artist and full-stack developer based in Turkey. I spend my time building dynamic web experiences, experimenting with low-level systems, and scoring the soundtrack for whatever I'm working on.
 
-I’m a big fan of the fine details—the kind of stuff that makes a UI feel "right." Whether it's a smart helmet project, an airport announcement system, or a custom UI framework, I'm usually deep in the weeds of code or creative production.
-
 ---
 
 ### 🛠️ development & tools
