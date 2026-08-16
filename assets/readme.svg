@@ -1,0 +1,57 @@
+<svg width="850" height="214" viewBox="0 0 850 214" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes letterWave {
+        0%, 100% {
+          transform: translateY(0px);
+        }
+        50% {
+          transform: translateY(-10px);
+        }
+      }
+
+      .wave-char {
+        animation: letterWave 1.4s ease-in-out infinite;
+      }
+
+      .char-1 { animation-delay: 0.0s; }
+      .char-2 { animation-delay: 0.12s; }
+      .char-3 { animation-delay: 0.24s; }
+      .char-4 { animation-delay: 0.36s; }
+      .char-5 { animation-delay: 0.48s; }
+      .char-6 { animation-delay: 0.60s; }
+      .char-7 { animation-delay: 0.72s; }
+      .char-8 { animation-delay: 0.84s; }
+      .char-9 { animation-delay: 0.96s; }
+    </style>
+    <clipPath id="clip0_1_2">
+      <rect width="850" height="214" fill="white"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip0_1_2)">
+    <rect width="850" height="214" fill="white"/>
+    <rect x="1" y="1" width="848" height="212" fill="white"/>
+    <rect x="1" y="1" width="848" height="212" stroke="black" stroke-width="2"/>
+    <rect x="14" y="14" width="822" height="186" stroke="black" stroke-width="8"/>
+
+    <!-- Letter 1 -->
+    <path class="wave-char char-1" d="M197 141H189V133V125V117V109V101V93V85H197H205V93H213V101H205V109V117V125V133V141H197ZM221 85H229V93H221H213V85H221Z" fill="black"/>
+    <!-- Letter 2 -->
+    <path class="wave-char char-2" d="M279 141H271H263H255H247V133H239V125V117V109H247V101H239V93H247V85H255H263H271H279V93H287V101V109V117V125V133V141H279ZM263 133H271V125V117V109H263H255V117V125V133H263ZM263 101H271V93H263H255H247V101H255H263Z" fill="black"/>
+    <!-- Letter 3 -->
+    <path class="wave-char char-3" d="M329 101V93H337V101H329ZM321 141H313H305V133H313H321V125H313V117H305V109H297V101V93H305V85H313H321H329V93H321H313V101H321V109H329V117H337V125V133H329V141H321ZM305 133H297V125H305V133Z" fill="black"/>
+    <!-- Letter 4 -->
+    <path class="wave-char char-4" d="M371 141H363V133H355V125V117V109V101V93H347V85H355V77V69H363H371V77V85H379V93H371V101V109V117V125V133H379V141H371Z" fill="black"/>
+    <!-- Letter 5 -->
+    <path class="wave-char char-5" d="M421 133H429V141H421H413H405H397V133H389V125V117V109V101V93H397V85H405H413H421H429V93H437V101V109V117H429H421H413H405V125V133H413H421ZM429 133V125H437V133H429ZM413 109H421V101V93H413H405V101V109H413Z" fill="black"/>
+    <!-- Letter 6 -->
+    <path class="wave-char char-6" d="M455 141H447V133V125V117V109V101V93V85H455H463V93H471V101H463V109V117V125V133V141H455ZM479 85H487V93H479H471V85H479Z" fill="black"/>
+    <!-- Letter 7 -->
+    <path class="wave-char char-7" d="M537 141H529H521H513H505V133H497V125V117V109V101V93H505V85H513H521H529V77V69H537H545V77V85V93V101V109V117V125V133V141H537ZM521 133H529V125V117V109V101V93H521H513V101V109V117V125V133H521Z" fill="black"/>
+    <!-- Letter 8 -->
+    <path class="wave-char char-8" d="M595 141H587H579H571H563V133H555V125V117V109V101V93H563V85H571H579H587V77V69H595H603V77V85V93V101V109V117V125V133V141H595ZM579 133H587V125V117V109V101V93H579H571V101V109V117V125V133H579Z" fill="black"/>
+    <!-- Letter 9 -->
+    <path class="wave-char char-9" d="M645 101V93H653V101H645ZM637 141H629H621V133H629H637V125H629V117H621V109H613V101V93H621V85H629H637H645V93H637H629V101H637V109H645V117H653V125V133H645V141H637ZM621 133H613V125H621V133Z" fill="black"/>
+  </g>
+</svg>
