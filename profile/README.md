@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rasterdds/.github/refs/heads/main/assets/readme.svg" alt="Wavy Header" width="600" />
+  <img src="https://raw.githubusercontent.com/rasterdds/.github/refs/heads/main/assets/wave.svg" alt="Wavy Header" width="700" />
 </p>
 
 Artist and full-stack developer based in Turkey. I spend my time building dynamic web experiences, experimenting with low-level systems, and scoring the soundtrack for whatever I'm working on.
